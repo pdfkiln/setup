@@ -1,5 +1,5 @@
 name: Setup PDFKiln
-description: Install PDFKiln, the drop-in replacement for wkhtmltopdf powered by Chromium, and put wkhtmltopdf, wkhtmltoimage and pdfkiln on the PATH
+description: Install PDFKiln, the drop-in replacement for wkhtmltopdf powered by Chromium, and put wkhtmltopdf on the PATH
 author: Jamal Tantaoui
 branding:
   icon: file-text
